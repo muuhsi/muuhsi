@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on cyber world
-- 📫 How to reach me - mehzmuhsin@gmail.com
+- 📫 How to reach me - muhznw06@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: the world is a star connection 
 
