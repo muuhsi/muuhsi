@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @muuhsi
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on cyber world
-- 📫 How to reach me - muhznw06@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: the world is a star connection 
+### 👋 Hi, I'm Muhsin PM
 
-<!---
-muuhsi/muuhsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 Aspiring Red Team Analyst | Offensive Security Enthusiast  
+🎓 BCA Student | Cybersecurity Intern @ Tech By Heart
+
+---
+
+🛠️ **Projects**
+- **Splunk SIEM**: Built real-time threat monitoring with custom alerts and dashboards  
+- **Amot Phishing Tool**: Flask-based phishing simulator with post-exploitation features
+
+🔧 **Skills**  
+Penetration Testing · Windows Exploitation · Python · Metasploit · Burp Suite · Splunk · Nmap
+
+📜 **Certifications**  
+CEH · CySA+ · Cisco Cybersecurity · (Pursuing) CST & Advanced SOC Analyst
+
+📫 **Contact**  
+[GitHub](https://github.com/muuhsi) | [LinkedIn](https://www.linkedin.com/in/muhsin-pm-1a4035327) | muhznw06@gmail.com
