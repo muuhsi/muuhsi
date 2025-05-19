@@ -13,7 +13,7 @@
 Penetration Testing · Windows Exploitation · Python · Metasploit · Burp Suite · Splunk · Nmap
 
 📜 **Certifications**  
-CEH · CySA+ · Cisco Cybersecurity · (Pursuing) CST & Advanced SOC Analyst
+CEH · CySA+ · Cisco Cybersecurity · CST & Advanced SOC Analyst
 
 📫 **Contact**  
 [GitHub](https://github.com/muuhsi) | [LinkedIn](https://www.linkedin.com/in/muhsin-pm-1a4035327) | muhznw06@gmail.com
